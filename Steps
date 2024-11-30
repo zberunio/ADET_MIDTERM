@@ -1,0 +1,5 @@
+npm init -y
+npm install express mysql2 jsonwebtoken bcryptjs body-parser
+npm install --save-dev nodemon
+npm install cors
+npm install dotenv
